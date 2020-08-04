@@ -1,17 +1,18 @@
-# Dogs-Vs-Cats
+## 猫狗分类项目
 
-
-mnist数据集
-
-
+### mnist数据集
 
 
 
 
 
-Kaggle猫狗大战
 
-- [x] VGG
+
+### Kaggle猫狗大战
+
+- [ ] LeNet
+- [ ] VGG
+- [ ] DenseNet
 
 
 
